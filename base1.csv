@@ -1,61 +1,61 @@
-﻿Género;Nivel Socioeconómico;Comuna;Cargo;Edad;Tiempo producción antes (min);Tiempo producción después (min);Evaluación desempeño (%);Experiencia laboral (años);;;
-Femenino;Medio;La Florida;Contador;47;88;65;80;15;;;
-Femenino;Alto;La Florida;Contador;57;83;54;79;24;;;
-Femenino;Alto;Santiago;Jefatura;59;34;46;71;4;;;
-Femenino;Bajo;Maipú;Costurero;37;73;45;96;31;;;
-Femenino;Alto;Providencia;Supervisor;46;33;21;66;26;;;
-Femenino;Alto;Providencia;Jefatura;47;34;33;72;2;;;6,867899126
-Femenino;Bajo;La Florida;Costurero;59;58;23;100;15;;;#¡REF!
-Masculino;Medio;La Florida;Costurero;40;32;51;98;1;;;
-Femenino;Bajo;Maipú;Costurero;42;71;26;97;34;;;
-Femenino;Alto;Santiago;Jefatura;23;75;51;74;16;;;
-Femenino;Medio;Santiago;Supervisor;30;80;29;76;33;;;
-Femenino;Alto;Maipú;Contador;43;53;55;74;27;;;
-Masculino;Bajo;Providencia;Contador;23;51;53;92;13;;;
-Masculino;Medio;Maipú;Supervisor;50;77;51;60;25;;;
-Femenino;Medio;Santiago;Costurero;60;90;55;65;9;;;
-Femenino;Medio;Providencia;Supervisor;23;58;22;69;2;;;
-Femenino;Alto;Santiago;Jefatura;24;73;59;81;29;;;
-Masculino;Medio;Providencia;Contador;49;49;37;75;20;;;
-Femenino;Alto;Santiago;Supervisor;32;81;48;88;19;;;
-Masculino;Alto;La Florida;Supervisor;42;44;48;76;28;;;
-Femenino;Bajo;Providencia;Costurero;39;61;63;89;21;;;
-Masculino;Medio;Providencia;Supervisor;40;72;61;77;3;;;
-Masculino;Medio;Santiago;Costurero;55;86;34;91;13;;;
-Masculino;Medio;Maipú;Supervisor;28;74;20;66;5;;;
-Femenino;Alto;Santiago;Contador;48;52;22;63;2;;;
-Masculino;Alto;Maipú;Jefatura;27;52;52;92;2;;;
-Masculino;Bajo;Santiago;Costurero;25;46;34;97;21;;;
-Masculino;Alto;Santiago;Jefatura;25;79;57;100;2;;;
-Masculino;Alto;Providencia;Supervisor;59;35;41;64;9;;;
-Femenino;Bajo;Maipú;Supervisor;41;30;50;98;30;;;
-Masculino;Medio;La Florida;Supervisor;42;38;29;76;35;;;
-Masculino;Medio;La Florida;Costurero;38;76;67;90;20;;;
-Masculino;Medio;Providencia;Jefatura;23;90;52;85;5;;;
-Masculino;Alto;La Florida;Jefatura;29;72;26;96;2;;;
-Femenino;Medio;Providencia;Costurero;26;66;29;96;1;;;
-Masculino;Alto;Maipú;Costurero;44;89;28;87;1;;;
-Masculino;Alto;Maipú;Supervisor;44;63;42;92;1;;;
-Femenino;Bajo;Providencia;Supervisor;53;71;31;98;14;;;
-Masculino;Medio;Maipú;Costurero;47;72;67;92;24;;;
-Femenino;Medio;La Florida;Costurero;42;39;31;74;25;;;
-Femenino;Alto;Maipú;Supervisor;55;86;21;96;9;;;
-Femenino;Medio;Maipú;Contador;52;39;58;90;16;;;
-Masculino;Alto;Maipú;Contador;57;74;22;81;29;;;
-Femenino;Alto;Santiago;Supervisor;37;31;62;91;23;;;
-Femenino;Medio;Santiago;Jefatura;58;85;56;94;40;;;
-Femenino;Bajo;La Florida;Costurero;36;79;40;75;33;;;
-Femenino;Alto;Santiago;Jefatura;32;79;27;61;17;;;
-Masculino;Bajo;La Florida;Jefatura;52;33;68;99;31;;;
-Masculino;Bajo;La Florida;Contador;50;33;32;60;7;;;
-Masculino;Alto;La Florida;Supervisor;51;78;58;90;5;;;
-Masculino;Alto;Maipú;Contador;46;50;55;93;5;;;
-Masculino;Bajo;La Florida;Costurero;41;56;67;97;1;;;
-Femenino;Bajo;Providencia;Jefatura;58;40;46;90;8;;;
-Femenino;Alto;Providencia;Supervisor;32;75;52;66;31;;;
-Masculino;Alto;Santiago;Costurero;39;74;31;60;33;;;
-Masculino;Bajo;Providencia;Supervisor;25;70;21;65;13;;;
-Masculino;Bajo;Maipú;Supervisor;31;78;49;83;26;;;
-Femenino;Medio;Santiago;Supervisor;33;41;33;85;17;;;
-Masculino;Alto;Providencia;Contador;38;48;43;78;16;;;
-Femenino;Bajo;Maipú;Supervisor;36;80;64;100;23;;;
+﻿Sexo;Nivel Socioeconómico;Comuna;Cargo;Edad;Tiempo antes;Tiempo  despues;Evaluacion;Experiencia laboral
+Femenino;Medio;La Florida;Contador;47;88;65;80;15
+Femenino;Alto;La Florida;Contador;57;83;54;79;24
+Femenino;Alto;Santiago;Jefatura;59;34;46;71;4
+Femenino;Bajo;Maipú;Costurero;37;73;45;96;31
+Femenino;Alto;Providencia;Supervisor;46;33;21;66;26
+Femenino;Alto;Providencia;Jefatura;47;34;33;72;2
+Femenino;Bajo;La Florida;Costurero;59;58;23;100;15
+Masculino;Medio;La Florida;Costurero;40;32;51;98;1
+Femenino;Bajo;Maipú;Costurero;42;71;26;97;34
+Femenino;Alto;Santiago;Jefatura;23;75;51;74;16
+Femenino;Medio;Santiago;Supervisor;30;80;29;76;33
+Femenino;Alto;Maipú;Contador;43;53;55;74;27
+Masculino;Bajo;Providencia;Contador;23;51;53;92;13
+Masculino;Medio;Maipú;Supervisor;50;77;51;60;25
+Femenino;Medio;Santiago;Costurero;60;90;55;65;9
+Femenino;Medio;Providencia;Supervisor;23;58;22;69;2
+Femenino;Alto;Santiago;Jefatura;24;73;59;81;29
+Masculino;Medio;Providencia;Contador;49;49;37;75;20
+Femenino;Alto;Santiago;Supervisor;32;81;48;88;19
+Masculino;Alto;La Florida;Supervisor;42;44;48;76;28
+Femenino;Bajo;Providencia;Costurero;39;61;63;89;21
+Masculino;Medio;Providencia;Supervisor;40;72;61;77;3
+Masculino;Medio;Santiago;Costurero;55;86;34;91;13
+Masculino;Medio;Maipú;Supervisor;28;74;20;66;5
+Femenino;Alto;Santiago;Contador;48;52;22;63;2
+Masculino;Alto;Maipú;Jefatura;27;52;52;92;2
+Masculino;Bajo;Santiago;Costurero;25;46;34;97;21
+Masculino;Alto;Santiago;Jefatura;25;79;57;100;2
+Masculino;Alto;Providencia;Supervisor;59;35;41;64;9
+Femenino;Bajo;Maipú;Supervisor;41;30;50;98;30
+Masculino;Medio;La Florida;Supervisor;42;38;29;76;35
+Masculino;Medio;La Florida;Costurero;38;76;67;90;20
+Masculino;Medio;Providencia;Jefatura;23;90;52;85;5
+Masculino;Alto;La Florida;Jefatura;29;72;26;96;2
+Femenino;Medio;Providencia;Costurero;26;66;29;96;1
+Masculino;Alto;Maipú;Costurero;44;89;28;87;1
+Masculino;Alto;Maipú;Supervisor;44;63;42;92;1
+Femenino;Bajo;Providencia;Supervisor;53;71;31;98;14
+Masculino;Medio;Maipú;Costurero;47;72;67;92;24
+Femenino;Medio;La Florida;Costurero;42;39;31;74;25
+Femenino;Alto;Maipú;Supervisor;55;86;21;96;9
+Femenino;Medio;Maipú;Contador;52;39;58;90;16
+Masculino;Alto;Maipú;Contador;57;74;22;81;29
+Femenino;Alto;Santiago;Supervisor;37;31;62;91;23
+Femenino;Medio;Santiago;Jefatura;58;85;56;94;40
+Femenino;Bajo;La Florida;Costurero;36;79;40;75;33
+Femenino;Alto;Santiago;Jefatura;32;79;27;61;17
+Masculino;Bajo;La Florida;Jefatura;52;33;68;99;31
+Masculino;Bajo;La Florida;Contador;50;33;32;60;7
+Masculino;Alto;La Florida;Supervisor;51;78;58;90;5
+Masculino;Alto;Maipú;Contador;46;50;55;93;5
+Masculino;Bajo;La Florida;Costurero;41;56;67;97;1
+Femenino;Bajo;Providencia;Jefatura;58;40;46;90;8
+Femenino;Alto;Providencia;Supervisor;32;75;52;66;31
+Masculino;Alto;Santiago;Costurero;39;74;31;60;33
+Masculino;Bajo;Providencia;Supervisor;25;70;21;65;13
+Masculino;Bajo;Maipú;Supervisor;31;78;49;83;26
+Femenino;Medio;Santiago;Supervisor;33;41;33;85;17
+Masculino;Alto;Providencia;Contador;38;48;43;78;16
+Femenino;Bajo;Maipú;Supervisor;36;80;64;100;23
