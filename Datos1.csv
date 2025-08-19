@@ -1,0 +1,401 @@
+Contrato;Zona;Salud;Sexo;Laboral;Tiempo 
+Indefinido;Centro;Fonasa;Masculino;25;11,8
+Indefinido;Centro;Isapre;Femenino;13;12,9
+Indefinido;Norte;Fonasa;Masculino;4;13,9
+Plazo fijo;Norte;Fonasa;Femenino;12;13,8
+Indefinido;Centro;Isapre;Femenino;19;11,9
+Plazo fijo;Norte;Isapre;Femenino;9;13,8
+Indefinido;Centro;Fonasa;Masculino;19;12,6
+Plazo Fijo;Sur;Fonasa;Masculino;6;13,4
+Plazo Fijo;Sur;Isapre;Masculino;7;14,9
+Indefinido;Sur;Isapre;Masculino;9;12,9
+Plazo Fijo;Norte;Fonasa;Masculino;12;12,4
+Indefinido;Sur;Fonasa;Masculino;13;13,0
+Indefinido;Centro;Fonasa;Masculino;10;13,3
+Plazo Fijo;Norte;Fonasa;Femenino;23;12,9
+Indefinido;Norte;Fonasa;Femenino;8;13,8
+Indefinido;Centro;Fonasa;Masculino;6;14,1
+Indefinido;Norte;Fonasa;Femenino;8;14,5
+Indefinido;Centro;Fonasa;Masculino;9;13,9
+Indefinido;Norte;Isapre;Masculino;14;13,1
+Indefinido;Sur;Fonasa;Femenino;15;12,5
+Plazo Fijo;Norte;Isapre;Masculino;8;16,3
+Plazo Fijo;Centro;Fonasa;Masculino;10;14,5
+Indefinido;Centro;Fonasa;Masculino;2;15,8
+Indefinido;Sur;Fonasa;Masculino;11;15,1
+Indefinido;Norte;Fonasa;Masculino;9;12,3
+Indefinido;Centro;Fonasa;Masculino;14;13,9
+Plazo fijo;Norte;Fonasa;Masculino;7;14,3
+Indefinido;Sur;Fonasa;Masculino;5;16,4
+Plazo fijo;Norte;Isapre;Femenino;18;10,8
+Indefinido;Centro;Fonasa;Femenino;8;14,1
+Indefinido;Sur;Fonasa;Masculino;5;15,0
+Plazo fijo;Sur;Fonasa;Femenino;7;13,5
+Indefinido;Sur;Fonasa;Femenino;14;13,8
+Indefinido;Norte;Isapre;Femenino;10;14,0
+Indefinido;Centro;Fonasa;Masculino;13;13,1
+Plazo Fijo;Norte;Fonasa;Masculino;10;13,4
+Indefinido;Norte;Fonasa;Masculino;14;13,3
+Plazo Fijo;Centro;Fonasa;Femenino;8;14,1
+Indefinido;Centro;Fonasa;Femenino;11;15,5
+Indefinido;Sur;Fonasa;Femenino;10;13,2
+Indefinido;Centro;Fonasa;Masculino;7;15,1
+Plazo fijo;Norte;Fonasa;Femenino;8;15,1
+Indefinido;Sur;Isapre;Masculino;28;11,3
+Indefinido;Norte;Isapre;Femenino;6;16,5
+Indefinido;Centro;Fonasa;Masculino;11;11,8
+Plazo fijo;Sur;Isapre;Femenino;23;11,1
+Plazo fijo;Sur;Fonasa;Masculino;9;15,0
+Indefinido;Centro;Fonasa;Femenino;6;15,1
+Indefinido;Norte;Fonasa;Masculino;11;11,6
+Plazo fijo;Centro;Fonasa;Masculino;7;14,8
+Plazo Fijo;Centro;Fonasa;Masculino;13;11,8
+Indefinido;Centro;Isapre;Femenino;15;10,9
+Indefinido;Sur;Isapre;Masculino;4;16,4
+Indefinido;Norte;Fonasa;Femenino;14;13,2
+Indefinido;Norte;Fonasa;Masculino;7;14,8
+Indefinido;Sur;Fonasa;Masculino;9;13,4
+Indefinido;Centro;Fonasa;Masculino;19;11,3
+Indefinido;Sur;Fonasa;Masculino;2;13,8
+Indefinido;Centro;Isapre;Masculino;14;10,4
+Indefinido;Sur;Fonasa;Masculino;8;14,7
+Plazo fijo;Norte;Isapre;Femenino;9;13,2
+Indefinido;Centro;Fonasa;Femenino;26;8,0
+Plazo Fijo;Norte;Isapre;Femenino;4;13,6
+Plazo fijo;Sur;Fonasa;Masculino;0;16,2
+Indefinido;Sur;Fonasa;Femenino;8;13,2
+Plazo fijo;Sur;Fonasa;Masculino;20;9,8
+Indefinido;Centro;Isapre;Masculino;16;9,7
+Indefinido;Sur;Fonasa;Masculino;7;13,1
+Plazo fijo;Sur;Isapre;Masculino;9;13,3
+Indefinido;Centro;Fonasa;Femenino;6;13,8
+Indefinido;Centro;Isapre;Masculino;13;11,9
+Indefinido;Norte;Fonasa;Femenino;13;11,7
+Indefinido;Norte;Isapre;Femenino;6;12,4
+Plazo fijo;Centro;Fonasa;Femenino;2;15,2
+Indefinido;Sur;Fonasa;Masculino;14;11,9
+Indefinido;Centro;Fonasa;Masculino;9;13,4
+Indefinido;Norte;Isapre;Masculino;3;16,3
+Indefinido;Norte;Isapre;Masculino;8;13,4
+Indefinido;Sur;Fonasa;Masculino;10;13,9
+Indefinido;Centro;Fonasa;Masculino;13;11,7
+Indefinido;Sur;Isapre;Femenino;6;15,2
+Plazo fijo;Norte;Fonasa;Masculino;10;13,9
+Indefinido;Norte;Fonasa;Femenino;18;10,0
+Plazo Fijo;Centro;Fonasa;Femenino;10;13,7
+Plazo fijo;Centro;Fonasa;Femenino;17;10,1
+Indefinido;Sur;Isapre;Masculino;9;13,5
+Indefinido;Centro;Fonasa;Femenino;7;14,7
+Indefinido;Centro;Isapre;Femenino;25;6,0
+Indefinido;Norte;Isapre;Masculino;5;14,8
+Plazo Fijo;Norte;Fonasa;Femenino;6;13,3
+Indefinido;Centro;Isapre;Femenino;9;13,9
+Indefinido;Sur;Fonasa;Masculino;8;13,7
+Plazo Fijo;Sur;Fonasa;Femenino;9;13,1
+Plazo fijo;Norte;Fonasa;Masculino;6;15,3
+Indefinido;Sur;Fonasa;Femenino;32;6,7
+Plazo fijo;Norte;Isapre;Masculino;5;14,6
+Indefinido;Centro;Fonasa;Masculino;17;10,0
+Indefinido;Norte;Fonasa;Masculino;15;11,6
+Indefinido;Sur;Fonasa;Masculino;8;14,8
+Plazo Fijo;Norte;Fonasa;Femenino;21;9,7
+Plazo Fijo;Centro;Isapre;Masculino;11;12,2
+Plazo Fijo;Norte;Fonasa;Femenino;5;13,4
+Indefinido;Centro;Fonasa;Masculino;12;11,4
+Plazo fijo;Sur;Isapre;Femenino;6;15,5
+Indefinido;Centro;Fonasa;Femenino;5;14,2
+Indefinido;Centro;Fonasa;Femenino;17;11,2
+Indefinido;Norte;Fonasa;Femenino;14;11,5
+Indefinido;Norte;Fonasa;Femenino;8;13,3
+Plazo Fijo;Centro;Fonasa;Femenino;9;14,1
+Plazo fijo;Norte;Isapre;Masculino;11;12,8
+Indefinido;Sur;Isapre;Masculino;5;15,5
+Plazo fijo;Centro;Isapre;Masculino;5;14,5
+Indefinido;Centro;Isapre;Masculino;6;12,9
+Indefinido;Sur;Fonasa;Masculino;18;10,3
+Plazo fijo;Norte;Fonasa;Femenino;6;15,1
+Indefinido;Centro;Fonasa;Masculino;9;13,0
+Plazo Fijo;Sur;Fonasa;Masculino;8;14,1
+Indefinido;Norte;Isapre;Masculino;12;13,2
+Plazo fijo;Norte;Isapre;Femenino;6;13,6
+Indefinido;Norte;Fonasa;Masculino;10;13,1
+Plazo fijo;Centro;Fonasa;Masculino;5;12,9
+Plazo Fijo;Norte;Fonasa;Masculino;8;12,0
+Indefinido;Centro;Isapre;Masculino;6;13,4
+Indefinido;Sur;Fonasa;Femenino;6;14,5
+Plazo Fijo;Norte;Fonasa;Femenino;6;12,7
+Plazo fijo;Centro;Isapre;Masculino;21;10,2
+Plazo fijo;Centro;Fonasa;Masculino;14;11,7
+Plazo fijo;Norte;Fonasa;Masculino;18;12,0
+Indefinido;Centro;Isapre;Femenino;9;14,6
+Plazo Fijo;Centro;Fonasa;Femenino;7;14,8
+Indefinido;Norte;Fonasa;Masculino;29;9,8
+Indefinido;Norte;Fonasa;Femenino;4;15,5
+Indefinido;Centro;Fonasa;Masculino;22;9,9
+Indefinido;Centro;Fonasa;Masculino;11;14,4
+Indefinido;Sur;Isapre;Masculino;14;12,7
+Indefinido;Centro;Fonasa;Masculino;14;11,9
+Indefinido;Centro;Fonasa;Femenino;12;13,0
+Indefinido;Norte;Fonasa;Masculino;8;14,8
+Indefinido;Norte;Fonasa;Masculino;3;15,7
+Indefinido;Norte;Isapre;Masculino;9;13,6
+Indefinido;Centro;Fonasa;Masculino;20;11,4
+Indefinido;Norte;Fonasa;Femenino;10;12,3
+Indefinido;Sur;Isapre;Femenino;10;13,3
+Indefinido;Centro;Fonasa;Masculino;4;15,6
+Indefinido;Centro;Fonasa;Femenino;4;15,0
+Plazo Fijo;Centro;Fonasa;Femenino;22;11,6
+Plazo Fijo;Centro;Fonasa;Masculino;8;14,0
+Plazo fijo;Norte;Fonasa;Masculino;14;12,2
+Plazo fijo;Norte;Fonasa;Masculino;5;13,8
+Indefinido;Norte;Fonasa;Masculino;12;12,6
+Plazo fijo;Norte;Isapre;Masculino;14;13,5
+Indefinido;Sur;Fonasa;Femenino;9;13,4
+Indefinido;Norte;Fonasa;Femenino;18;12,2
+Plazo fijo;Centro;Fonasa;Masculino;28;9,8
+Plazo Fijo;Centro;Fonasa;Femenino;13;11,6
+Indefinido;Norte;Fonasa;Masculino;10;12,1
+Indefinido;Norte;Fonasa;Femenino;11;12,8
+Indefinido;Centro;Fonasa;Masculino;11;11,5
+Plazo fijo;Centro;Fonasa;Masculino;3;15,0
+Plazo Fijo;Centro;Fonasa;Femenino;16;12,0
+Indefinido;Sur;Isapre;Masculino;17;12,3
+Plazo Fijo;Sur;Fonasa;Femenino;9;14,4
+Indefinido;Sur;Fonasa;Masculino;9;14,5
+Indefinido;Sur;Isapre;Femenino;13;14,4
+Indefinido;Norte;Isapre;Masculino;19;12,0
+Indefinido;Centro;Fonasa;Masculino;5;14,2
+Indefinido;Norte;Isapre;Masculino;5;13,8
+Indefinido;Centro;Isapre;Masculino;11;13,3
+Indefinido;Sur;Fonasa;Femenino;25;10,2
+Indefinido;Sur;Fonasa;Masculino;9;14,6
+Plazo Fijo;Centro;Fonasa;Masculino;11;11,9
+Indefinido;Sur;Isapre;Masculino;3;15,3
+Plazo Fijo;Norte;Fonasa;Femenino;16;11,3
+Plazo Fijo;Sur;Isapre;Masculino;12;13,0
+Indefinido;Centro;Fonasa;Masculino;13;13,5
+Indefinido;Norte;Fonasa;Femenino;24;10,3
+Indefinido;Centro;Fonasa;Masculino;15;14,0
+Indefinido;Centro;Fonasa;Masculino;9;14,6
+Plazo fijo;Norte;Isapre;Masculino;9;15,8
+Indefinido;Centro;Fonasa;Femenino;11;13,1
+Plazo fijo;Centro;Isapre;Masculino;12;13,2
+Indefinido;Sur;Fonasa;Femenino;7;15,4
+Indefinido;Centro;Fonasa;Femenino;9;13,3
+Indefinido;Norte;Fonasa;Femenino;9;13,5
+Indefinido;Norte;Isapre;Masculino;7;14,9
+Plazo fijo;Norte;Isapre;Masculino;6;13,8
+Indefinido;Centro;Fonasa;Femenino;8;13,8
+Indefinido;Centro;Fonasa;Masculino;3;15,3
+Indefinido;Sur;Fonasa;Masculino;8;14,1
+Indefinido;Centro;Isapre;Masculino;9;13,1
+Indefinido;Centro;Isapre;Femenino;18;11,7
+Indefinido;Sur;Isapre;Masculino;3;13,7
+Indefinido;Centro;Fonasa;Masculino;6;15,2
+Indefinido;Sur;Fonasa;Femenino;17;12,4
+Indefinido;Centro;Isapre;Femenino;4;15,5
+Indefinido;Sur;Fonasa;Masculino;9;14,8
+Indefinido;Sur;Isapre;Femenino;9;15,3
+Indefinido;Sur;Fonasa;Masculino;19;10,4
+Indefinido;Centro;Isapre;Femenino;1;14,7
+Plazo fijo;Sur;Fonasa;Femenino;13;13,1
+Plazo Fijo;Sur;Isapre;Masculino;7;10,1
+Indefinido;Sur;Isapre;Masculino;9;14,6
+Plazo Fijo;Norte;Fonasa;Masculino;12;16,3
+Indefinido;Sur;Fonasa;Masculino;13;13,9
+Indefinido;Centro;Fonasa;Masculino;10;12,8
+Plazo Fijo;Norte;Fonasa;Femenino;23;15,1
+Indefinido;Norte;Fonasa;Femenino;8;12,6
+Indefinido;Centro;Fonasa;Masculino;6;16,5
+Indefinido;Norte;Fonasa;Femenino;8;17,7
+Indefinido;Centro;Fonasa;Masculino;9;14,8
+Indefinido;Norte;Isapre;Masculino;14;13,7
+Indefinido;Sur;Fonasa;Femenino;15;14,4
+Plazo Fijo;Norte;Isapre;Masculino;8;15,4
+Plazo Fijo;Centro;Fonasa;Masculino;10;11,1
+Indefinido;Centro;Fonasa;Masculino;2;16,8
+Indefinido;Sur;Fonasa;Masculino;11;14,7
+Indefinido;Norte;Fonasa;Masculino;9;15,5
+Indefinido;Centro;Fonasa;Masculino;14;14,8
+Plazo fijo;Norte;Fonasa;Masculino;7;14,0
+Indefinido;Sur;Fonasa;Masculino;5;13,3
+Plazo fijo;Norte;Isapre;Femenino;18;15,2
+Indefinido;Centro;Fonasa;Femenino;8;15,4
+Indefinido;Sur;Fonasa;Masculino;5;17,1
+Plazo fijo;Sur;Fonasa;Femenino;7;14,8
+Indefinido;Sur;Fonasa;Femenino;14;14,8
+Indefinido;Norte;Isapre;Femenino;10;13,4
+Indefinido;Centro;Fonasa;Masculino;13;15,5
+Plazo Fijo;Norte;Fonasa;Masculino;10;16,5
+Indefinido;Norte;Fonasa;Masculino;14;11,4
+Plazo Fijo;Centro;Fonasa;Femenino;8;17,7
+Indefinido;Centro;Fonasa;Femenino;11;17,0
+Indefinido;Sur;Fonasa;Femenino;10;17,1
+Indefinido;Centro;Fonasa;Masculino;7;13,1
+Plazo fijo;Norte;Fonasa;Femenino;8;15,5
+Indefinido;Sur;Isapre;Masculino;28;14,3
+Indefinido;Norte;Isapre;Femenino;6;16,3
+Indefinido;Centro;Fonasa;Masculino;11;14,4
+Plazo fijo;Sur;Isapre;Femenino;23;17,1
+Plazo fijo;Sur;Fonasa;Masculino;9;14,9
+Indefinido;Centro;Fonasa;Femenino;6;15,1
+Indefinido;Norte;Fonasa;Masculino;11;17,7
+Plazo fijo;Norte;Isapre;Masculino;9;14,9
+Indefinido;Centro;Fonasa;Femenino;11;10,1
+Plazo fijo;Centro;Isapre;Masculino;12;16,7
+Indefinido;Sur;Fonasa;Femenino;7;15,3
+Indefinido;Centro;Fonasa;Femenino;9;10,9
+Indefinido;Norte;Fonasa;Femenino;9;14,7
+Indefinido;Norte;Isapre;Masculino;7;16,4
+Plazo fijo;Norte;Isapre;Masculino;6;14,4
+Indefinido;Centro;Fonasa;Femenino;8;14,1
+Indefinido;Centro;Fonasa;Masculino;3;12,9
+Indefinido;Sur;Fonasa;Masculino;8;13,9
+Indefinido;Centro;Isapre;Masculino;9;15,6
+Indefinido;Centro;Isapre;Femenino;18;13,1
+Indefinido;Sur;Isapre;Masculino;3;13,8
+Indefinido;Centro;Fonasa;Masculino;6;15,4
+Indefinido;Sur;Fonasa;Femenino;17;11,3
+Indefinido;Centro;Isapre;Femenino;4;16,6
+Indefinido;Sur;Fonasa;Masculino;9;12,8
+Indefinido;Sur;Isapre;Femenino;9;15,4
+Indefinido;Sur;Fonasa;Masculino;19;15,7
+Indefinido;Norte;Fonasa;Masculino;20;10,2
+Indefinido;Centro;Isapre;Masculino;10;16,4
+Indefinido;Centro;Fonasa;Masculino;3;18,3
+Plazo Fijo;Sur;Fonasa;Femenino;10;15,5
+Indefinido;Centro;Fonasa;Masculino;15;13,3
+Indefinido;Centro;Isapre;Masculino;7;12,7
+Plazo Fijo;Sur;Isapre;Masculino;15;18,2
+Indefinido;Centro;Fonasa;Femenino;5;14,2
+Indefinido;Centro;Fonasa;Masculino;6;14,5
+Indefinido;Norte;Fonasa;Femenino;7;13,9
+Indefinido;Centro;Isapre;Masculino;10;15,2
+Indefinido;Centro;Isapre;Femenino;10;14,1
+Indefinido;Centro;Fonasa;Femenino;8;16,9
+Indefinido;Sur;Fonasa;Femenino;18;13,3
+Indefinido;Sur;Fonasa;Masculino;6;16,5
+Indefinido;Sur;Isapre;Masculino;5;17,4
+Indefinido;Sur;Fonasa;Masculino;6;13,7
+Plazo Fijo;Sur;Fonasa;Femenino;7;15,4
+Indefinido;Centro;Fonasa;Masculino;11;13,6
+Indefinido;Sur;Isapre;Masculino;12;14,8
+Plazo Fijo;Centro;Fonasa;Masculino;6;14,7
+Indefinido;Sur;Isapre;Femenino;8;14,4
+Indefinido;Centro;Fonasa;Femenino;2;16,2
+Indefinido;Sur;Fonasa;Masculino;9;12,5
+Plazo Fijo;Sur;Isapre;Masculino;7;15,5
+Indefinido;Norte;Fonasa;Masculino;11;16,3
+Indefinido;Sur;Isapre;Masculino;6;10,3
+Indefinido;Centro;Fonasa;Masculino;4;16,6
+Plazo Fijo;Centro;Fonasa;Femenino;14;16,4
+Indefinido;Centro;Isapre;Masculino;6;14,7
+Plazo Fijo;Sur;Isapre;Femenino;4;16,6
+Indefinido;Sur;Isapre;Femenino;6;15,7
+Indefinido;Norte;Fonasa;Masculino;11;14,8
+Indefinido;Sur;Fonasa;Femenino;8;9,2
+Indefinido;Sur;Isapre;Masculino;10;18,7
+Plazo Fijo;Centro;Isapre;Masculino;8;14,5
+Indefinido;Sur;Fonasa;Masculino;11;15,1
+Indefinido;Centro;Isapre;Masculino;6;15,2
+Plazo Fijo;Norte;Fonasa;Masculino;9;10,6
+Plazo Fijo;Centro;Fonasa;Femenino;8;13,6
+Indefinido;Norte;Fonasa;Masculino;6;16,6
+Indefinido;Sur;Fonasa;Femenino;6;14,7
+Indefinido;Centro;Fonasa;Masculino;22;15,9
+Plazo Fijo;Centro;Isapre;Femenino;5;16,8
+Plazo Fijo;Centro;Isapre;Femenino;9;13,1
+Plazo Fijo;Sur;Fonasa;Masculino;18;12,9
+Indefinido;Sur;Fonasa;Femenino;7;15,7
+Indefinido;Centro;Fonasa;Masculino;7;14,8
+Indefinido;Norte;Isapre;Masculino;12;16,5
+Indefinido;Centro;Isapre;Masculino;8;18,5
+Indefinido;Centro;Fonasa;Masculino;14;18,5
+Indefinido;Centro;Fonasa;Femenino;17;15,7
+Plazo Fijo;Sur;Isapre;Masculino;4;12,9
+Plazo Fijo;Norte;Fonasa;Masculino;15;14,7
+Plazo Fijo;Centro;Isapre;Masculino;8;15,5
+Indefinido;Centro;Isapre;Femenino;10;15,8
+Indefinido;Centro;Fonasa;Masculino;21;14,3
+Indefinido;Sur;Fonasa;Femenino;2;18,3
+Indefinido;Sur;Isapre;Masculino;15;14,0
+Indefinido;Centro;Isapre;Masculino;9;16,8
+Indefinido;Centro;Isapre;Femenino;10;16,1
+Indefinido;Sur;Fonasa;Masculino;29;17,5
+Indefinido;Norte;Fonasa;Masculino;4;15,8
+Indefinido;Sur;Fonasa;Masculino;0;15,0
+Indefinido;Sur;Fonasa;Masculino;9;12,1
+Indefinido;Centro;Isapre;Femenino;22;13,2
+Indefinido;Centro;Fonasa;Masculino;18;12,8
+Indefinido;Sur;Isapre;Masculino;8;16,1
+Indefinido;Norte;Fonasa;Masculino;10;14,9
+Plazo Fijo;Centro;Fonasa;Masculino;7;9,6
+Indefinido;Centro;Fonasa;Femenino;14;17,4
+Indefinido;Norte;Fonasa;Masculino;14;12,9
+Indefinido;Centro;Isapre;Masculino;7;14,8
+Indefinido;Centro;Fonasa;Masculino;2;13,0
+Plazo Fijo;Sur;Fonasa;Femenino;15;13,1
+Indefinido;Centro;Fonasa;Masculino;10;15,0
+Indefinido;Centro;Isapre;Masculino;3;15,9
+Plazo Fijo;Sur;Isapre;Masculino;9;16,0
+Indefinido;Centro;Fonasa;Femenino;11;13,7
+Indefinido;Centro;Fonasa;Masculino;14;11,6
+Indefinido;Norte;Fonasa;Femenino;7;14,1
+Indefinido;Centro;Isapre;Masculino;11;15,9
+Indefinido;Centro;Isapre;Femenino;20;16,1
+Indefinido;Centro;Fonasa;Femenino;11;15,6
+Indefinido;Sur;Fonasa;Femenino;19;10,9
+Indefinido;Sur;Fonasa;Masculino;10;15,5
+Indefinido;Sur;Isapre;Masculino;8;14,0
+Indefinido;Sur;Fonasa;Masculino;28;15,7
+Plazo Fijo;Sur;Fonasa;Femenino;6;14,0
+Indefinido;Centro;Fonasa;Masculino;7;13,8
+Indefinido;Sur;Isapre;Masculino;10;14,1
+Plazo Fijo;Centro;Fonasa;Masculino;9;12,9
+Indefinido;Sur;Isapre;Femenino;10;10,0
+Indefinido;Centro;Fonasa;Femenino;7;13,9
+Indefinido;Sur;Fonasa;Masculino;35;15,7
+Plazo Fijo;Sur;Isapre;Masculino;6;15,6
+Indefinido;Norte;Fonasa;Masculino;19;15,4
+Indefinido;Sur;Isapre;Masculino;17;18,2
+Indefinido;Centro;Fonasa;Masculino;9;12,0
+Plazo Fijo;Centro;Fonasa;Femenino;23;12,3
+Indefinido;Centro;Isapre;Masculino;12;14,6
+Plazo Fijo;Sur;Isapre;Femenino;6;15,2
+Indefinido;Sur;Isapre;Femenino;13;15,9
+Indefinido;Norte;Fonasa;Masculino;7;13,0
+Indefinido;Sur;Fonasa;Femenino;6;16,0
+Indefinido;Sur;Isapre;Masculino;19;18,0
+Plazo Fijo;Centro;Isapre;Masculino;15;14,0
+Indefinido;Sur;Fonasa;Masculino;9;10,9
+Indefinido;Centro;Isapre;Masculino;10;13,6
+Plazo Fijo;Norte;Fonasa;Masculino;12;13,3
+Plazo Fijo;Centro;Fonasa;Femenino;6;18,6
+Indefinido;Norte;Fonasa;Masculino;6;14,7
+Indefinido;Sur;Fonasa;Femenino;7;15,4
+Indefinido;Centro;Fonasa;Masculino;20;14,0
+Plazo Fijo;Centro;Isapre;Femenino;7;10,8
+Plazo Fijo;Centro;Isapre;Femenino;10;14,2
+Plazo Fijo;Sur;Fonasa;Masculino;9;15,5
+Indefinido;Sur;Fonasa;Femenino;13;16,3
+Indefinido;Centro;Fonasa;Masculino;7;14,7
+Indefinido;Norte;Isapre;Masculino;11;15,2
+Indefinido;Centro;Isapre;Masculino;6;16,4
+Indefinido;Centro;Fonasa;Masculino;9;14,1
+Indefinido;Centro;Fonasa;Femenino;7;15,4
+Plazo Fijo;Sur;Isapre;Masculino;7;16,7
+Plazo Fijo;Norte;Fonasa;Masculino;7;15,1
+Plazo Fijo;Centro;Isapre;Masculino;23;16,7
+Indefinido;Centro;Isapre;Femenino;15;17,7
+Indefinido;Centro;Fonasa;Masculino;20;14,5
+Indefinido;Sur;Fonasa;Femenino;10;16,5
+Indefinido;Sur;Isapre;Masculino;6;12,7
+Indefinido;Centro;Isapre;Masculino;26;18,2
+Indefinido;Centro;Isapre;Femenino;4;16,9
+Indefinido;Sur;Fonasa;Masculino;20;12,8
+Indefinido;Norte;Fonasa;Masculino;10;15,2
+Indefinido;Sur;Fonasa;Masculino;13;14,8
+Indefinido;Sur;Fonasa;Masculino;13;15,3
+Indefinido;Centro;Isapre;Femenino;11;12,1
+Indefinido;Centro;Fonasa;Masculino;7;17,1
+Indefinido;Sur;Isapre;Masculino;3;15,3
