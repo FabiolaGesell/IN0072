@@ -1,4 +1,4 @@
-Contrato;Zona;Salud;Sexo;Laboral;Tiempo 
+Contrato;Zona;Salud;Sexo;Laboral;Tiempo
 Indefinido;Centro;Fonasa;Masculino;25;11.8
 Indefinido;Centro;Isapre;Femenino;13;12.9
 Indefinido;Norte;Fonasa;Masculino;4;13.9
@@ -399,3 +399,4 @@ Indefinido;Sur;Fonasa;Masculino;13;15.3
 Indefinido;Centro;Isapre;Femenino;11;12.1
 Indefinido;Centro;Fonasa;Masculino;7;17.1
 Indefinido;Sur;Isapre;Masculino;3;15.3
+
