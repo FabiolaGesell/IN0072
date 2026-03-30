@@ -1,0 +1,59 @@
+Marca;Año;Precio;Pasajeros;Combustible;uso;Color;carga
+Toyota;2022;$15.500.000;5;Gasolina 93;Particular;Blanco;$45.000
+Hyundai;2019;$10.800.000;5;Gasolina 95;Aplicación;Gris;$38.500
+Chevrolet;2024;$21.200.000;7;Diésel;Familiar;Azul;$62.000
+Suzuki;2021;$9.500.000;5;Gasolina 93;Particular;Rojo;$32.000
+Kia;2020;$12.400.000;5;Gasolina 95;Particular;Negro;$41.000
+Nissan;2018;$11.200.000;5;Gasolina 93;Aplicación;Plata;$48.000
+Ford;2023;$28.900.000;5;Diésel;Comercial;Blanco;$75.000
+Mazda;2022;$17.800.000;5;Gasolina 97;Particular;Gris;$55.000
+Volkswagen;2017;$8.900.000;5;Gasolina 95;Particular;Blanco;$39.000
+Mitsubishi;2021;$24.500.000;5;Diésel;Trabajo;Rojo;$68.000
+Peugeot;2023;$19.400.000;5;Diésel;Familiar;Azul;$52.000
+MG;2024;$13.900.000;5;Gasolina 95;Particular;Naranjo;$44.000
+Great Wall;2022;$16.200.000;5;Diésel;Comercial;Blanco;$58.000
+Chery;2021;$11.500.000;5;Gasolina 93;Particular;Negro;$37.000
+Subaru;2020;$18.900.000;5;Gasolina 97;Particular;Azul;$61.000
+Honda;2019;$14.200.000;5;Gasolina 95;Particular;Gris;$46.000
+Jeep;2023;$32.000.000;5;Gasolina 97;Recreación;Verde;$72.000
+BMW;2022;$45.000.000;5;Gasolina 97;Particular;Negro;$85.000
+Citroën;2021;$14.800.000;5;Diésel;Particular;Blanco;$49.000
+Renault;2018;$7.500.000;5;Gasolina 93;Aplicación;Rojo;$34.000
+Mercedes-Benz;2024;$52.000.000;5;Gasolina 97;Particular;Plata;$92.000
+Fiat;2020;$9.200.000;5;Gasolina 93;Particular;Blanco;$31.000
+SsangYong;2022;$22.600.000;7;Diésel;Trabajo;Gris;$65.000
+Volvo;2023;$38.500.000;5;Híbrido;Particular;Azul;$42.000
+Audi;2022;$34.000.000;5;Gasolina 97;Particular;Negro;$78.000
+Land Rover;2021;$65.000.000;7;Diésel;Recreación;Verde;$95.000
+Changan;2024;$12.800.000;5;Gasolina 95;Particular;Blanco;$40.000
+Haval;2023;$17.500.000;5;Gasolina 95;Particular;Rojo;$47.000
+JAC;2022;$14.100.000;5;Gasolina 93;Comercial;Gris;$43.000
+Mahindra;2020;$15.900.000;7;Diésel;Trabajo;Blanco;$59.000
+Lexus;2024;$48.000.000;5;Híbrido;Particular;Plata;$44.000
+Porsche;2021;$95.000.000;4;Gasolina 97;Recreación;Negro;$110.000
+Tesla;2023;$55.000.000;5;Eléctrico;Particular;Blanco;$12.000
+BYD;2024;$32.000.000;5;Eléctrico;Particular;Azul;$9.500
+RAM;2022;$42.000.000;5;Diésel;Trabajo;Gris;$88.000
+Chevrolet;2019;$9.800.000;5;Gasolina 93;Aplicación;Blanco;$36.000
+Toyota;2023;$23.400.000;5;Híbrido;Particular;Rojo;$35.000
+Suzuki;2018;$7.200.000;5;Gasolina 93;Particular;Azul;$28.000
+Nissan;2021;$20.100.000;5;Gasolina 95;Particular;Negro;$53.000
+Ford;2020;$16.500.000;5;Gasolina 95;Particular;Gris;$49.000
+Kia;2024;$14.900.000;5;Gasolina 93;Particular;Blanco;$42.000
+Hyundai;2022;$18.200.000;5;Gasolina 95;Particular;Plata;$50.000
+Peugeot;2020;$15.600.000;5;Diésel;Particular;Azul;$45.000
+Mitsubishi;2024;$29.000.000;5;Diésel;Trabajo;Blanco;$72.000
+Subaru;2018;$13.500.000;5;Gasolina 95;Particular;Gris;$48.000
+Jeep;2021;$26.800.000;5;Gasolina 97;Recreación;Rojo;$67.000
+Mazda;2023;$20.400.000;5;Gasolina 97;Particular;Azul;$59.000
+MG;2021;$10.900.000;5;Gasolina 95;Particular;Blanco;$38.000
+Volkswagen;2022;$16.700.000;5;Gasolina 95;Particular;Negro;$46.000
+Citroën;2019;$11.300.000;5;Diésel;Particular;Gris;$39.000
+Honda;2024;$25.600.000;5;Gasolina 95;Familiar;Plata;$54.000
+Renault;2022;$12.200.000;5;Gasolina 93;Particular;Rojo;$37.000
+Chery;2023;$15.800.000;7;Gasolina 95;Familiar;Blanco;$51.000
+Great Wall;2020;$13.400.000;5;Diésel;Trabajo;Azul;$53.000
+Audi;2024;$42.000.000;5;Gasolina 97;Particular;Gris;$82.000
+Volvo;2021;$32.400.000;5;Diésel;Particular;Negro;$58.000
+Changan;2022;$11.900.000;5;Gasolina 93;Particular;Blanco;$36.000
+Mercedes-Benz;2023;$48.500.000;5;Gasolina 97;Particular;Gris;$88.000
